@@ -20,8 +20,8 @@ GitHub
 
 ## Current Progress
 01_data_cleaning.ipynb completed
+02_exploratory_analysis.ipynb
 
 ## Next Steps
-02_exploratory_analysis.ipynb
 03_feature_engineering.ipynb
 04_modeling.ipynb
